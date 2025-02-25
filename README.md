@@ -66,6 +66,3 @@ An autonomous cybersecurity assessment tool that leverages LangChain and local L
    pip install -e .
    ```
 
-## 🚦 Usage
-
-### CLI Mode
