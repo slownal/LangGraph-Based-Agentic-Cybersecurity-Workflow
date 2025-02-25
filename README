@@ -1,8 +1,8 @@
-# Agentic Cybersecurity Pipeline
+#Agentic Cybersecurity Pipeline
 
 An autonomous cybersecurity assessment tool that leverages LangChain and local LLMs to perform automated security scanning and analysis.
 
-##  Features
+## Features
 
 - **Autonomous Task Planning**: Automatically breaks down high-level security instructions into executable tasks
 - **Scope-Aware Scanning**: Enforces defined target scope for all security operations
